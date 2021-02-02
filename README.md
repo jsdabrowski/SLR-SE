@@ -1,4 +1,4 @@
-# Supplementary material for the paper Analysing App Reviews for Software Engineering: A Systematic Literature Review
+# Supplementary material for A Systematic Literature Review: Analysing App Reviews for Software Engineering
 
 The repository contains suplementary materialas for the paper. They are parts of the submission for <will be filled once the papers is accepted>. The materials include:
 
