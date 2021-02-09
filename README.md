@@ -1,4 +1,4 @@
-# Supplementary Material for SLR: Analysing App Reviews for Software Engineering
+# Supplementary Material For SLR: Analysing App Reviews for Software Engineering
 
 The repository contains suplementary materials for our systematic literature review. They are part of the journal submission. The materials include:
 
