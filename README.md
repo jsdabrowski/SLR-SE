@@ -1,6 +1,6 @@
 # Supplementary material for A Systematic Literature Review: Analysing App Reviews for Software Engineering
 
-The repository contains suplementary materialas for our systematic literature review. They are parts of the journal submission for [the name will be filled once the papers is accepted]. The materials include:
+The repository contains suplementary materialas for our systematic literature review. They are parts of the journal submission. The materials include:
 
 - data etraction form ("SLR-data-extraction-form.xlsx")
 - repository listing surveyed studies ("SLR-bibliography.bib")
