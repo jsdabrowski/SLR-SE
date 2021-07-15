@@ -1,7 +1,7 @@
 Reference, Description, Access, Primary Study
 
 
-Di Sorbo et al. (2016), SURF tool classifies reviews by users’ intention; cluster them then generates their summaries, Sorbo et al. (2021), "Di Sorbo et al.  What Would Users Change in My App? Summarizing App Reviews for Recommending Software Changes""  FSE 2016"
+Di Sorbo et al. (2016), SURF tool classifies reviews by users’ intention; cluster them then generates their summaries, Sorbo et al. (2021), x
 Panichella et al. (2016), "ARdoc tool classifies reviews with a type of user requests (e.g., feature request, problem discovery, information seeking, information giving and other.)", Panichella (2021b), "Di Sorbo et al., 
 Johann et al. (2017), SAFE tool extracts features from reviews and match them with features present in app descriptions., Upon Request, x
 Wei et al. (2017), OASIS tool classifies reviews by reported issue; links them to warnings from static analysis tools; and recommend the priorities of these warnings., Wei et al. (2021), x
