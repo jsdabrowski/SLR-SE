@@ -4,9 +4,9 @@ Reference, Description, Access, Primary Study
 Di Sorbo et al. (2016), SURF tool classifies reviews by users’ intention; cluster them then generates their summaries, https://zenodo.org/record/47323#.YNoTHS0Ro1K, x
 Panichella et al. (2016), "ARdoc tool classifies reviews with a type of user requests (e.g., feature request, problem discovery, information seeking, information giving and other.)", https://spanichella.github.io/tools.html, x 
 Johann et al. (2017), SAFE tool extracts features from reviews and match them with features present in app descriptions., Upon Request, x
-Wei et al. (2017), OASIS tool classifies reviews by reported issue; links them to warnings from static analysis tools; and recommend the priorities of these warnings., Wei et al. (2021), x
-Deshpande and Rokne (2018), "The tool classifies reviews by a type of a user request (e.g., problem discovery).", Deshpande (2021),  x
-Dhinakaran et al. (2018), "The tool classifies reviews based on types of user feedback i.e., feature request, bug report, user experience and rating", Dhinakaran et al. (2021), x
+Wei et al. (2017), OASIS tool classifies reviews by reported issue; links them to warnings from static analysis tools; and recommend the priorities of these warnings., http://sccpu2.cse.ust.hk/oasis/index.html, x
+Deshpande and Rokne (2018), "The tool classifies reviews by a type of a user request (e.g., problem discovery).", https://github.com/MaQuest/AIRE2018_Feedback-from-Tweets-vs-App-Store,  x
+Dhinakaran et al. (2018), "The tool classifies reviews based on types of user feedback i.e., feature request, bug report, user experience and rating", https://github.com/tdvenky/ActiveReviewMiner, x 
 Scoccia et al. (2018), The tool classifies app reviews into users’ concerns related to android run-time permission., Scoccia et al. (2021), x
 
 Shah et al. (2018),"A tool classifying app reviews based on their feedback type (e.g., feature request, problem report).", Shah et al. (2021), x
