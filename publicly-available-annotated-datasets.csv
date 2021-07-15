@@ -12,8 +12,8 @@ Lu and Liang (2017), "Reviews labeled with functional and non-functional require
 Grano et al. (2018), "Annotated reviews with their topics and a type of issue users reports.", "6,600", https://spanichella.github.io/tools.html, x
 Jha and Mahmoud (2018), "Annotated a type of user feedback (feature request, bug reports, and others).", "2,930", http://seel.cse.lsu.edu/data/emse18.zip, x
 Nayebi et al. (2018), "Annotated reviews with a type of a user request (e.g., problem discovery).", "2,383",  https://github.com/MaQuest/AIRE2018_Feedback-from-Tweets-vs-App-Store,x
-Pelloni et al. (2018), "Reviews labeled with a crash report category.", 534, "Pelloni et al. (2021a)", x
-Scoccia et al. (2018), "Annotated reviews with 10 categories of recurring users’s concern.", "1,000", "Scoccia et al. (2021)", x
+Pelloni et al. (2018), "Reviews labeled with a crash report category.", 534, https://github.com/sealuzh/saner18/blob/master/rq1/LLT.csv, x
+Scoccia et al. (2018), "Annotated reviews with 10 categories of recurring users’s concern.", "1,000", https://mega.nz/file/5sVzCRwD#ad-PFyU72JCL8AkcCGi_45w-z60CYa0EEjWqAWGiljQ, x
 Al Kilani et al. (2019), "Labeled reviews with 5 categories: bug, new feature, performance, security, usability or sentimental.", "7,500", Upon Request, x
 Dąbrowski et al. (2019), "Reviews annotated with 20 app features.", 200, Upon Request, x
 Jha and Mahmoud (2019), "Labeled reviews with non-functional requirements user discuss (e.g. usability, dependability).", "6,000", Jha and Mahmoud (2021b), x
