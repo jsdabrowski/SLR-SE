@@ -16,4 +16,4 @@ Pelloni et al. (2018), BECLoMA tool links stack traces from testing tools to use
 Scalabrino et al. (2019), CLAP tool classifying reviews by their types; clustering them; then recommend their relative importance., Upon Request, x
 Shah et al. (2019a), SAFE tool reimplementation facilitating feature extraction from reviews and app descriptions., Shah et al. (2021), x
 Shah et al. (2019b), A reimplementation of a tool facilitating feature extraction using supervised ML technique., Shah et al. (2021), x
-Stanik et al. (2019), A tool classifying reviews by the the type of user feedback, https://mast.informatik.uni-hamburg.de/replication-packages/, "Stanik et al., ""Classifying multilingual user feedback using traditional machine learning and deep learning"", REW, 2019"
+Stanik et al. (2019), "A tool classifying reviews by the the type of user feedback (problem reports, inquiries, and irrele- vant)." https://mast.informatik.uni-hamburg.de/replication-packages/, "Stanik et al., ""Classifying multilingual user feedback using traditional machine learning and deep learning"", REW, 2019"
