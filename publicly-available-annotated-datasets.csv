@@ -10,8 +10,8 @@ Ciurumelea et al. (2017), "Tagged reviews with mobile specific categories (e.g. 
 Groen et al. (2017), "Labeled reviews with software quality requirements (e.g., usability, reliability, portability, compatibility).", 360, Upon Request, x
 Lu and Liang (2017), "Reviews labeled with functional and non-functional requirements (e.g., us- ability, performance).", "2,000", https://www.dropbox.com/sh/05mteyyo7uj4w0n/AAAgKbottac7YchpH3qidPUXa?dl=0, x
 Grano et al. (2018), "Annotated reviews with their topics and a type of issue users reports.", "6,600", https://spanichella.github.io/tools.html, x
-Jha and Mahmoud (2018), "Annotated a type of user feedback (feature request, bug reports, and others).", "2,930", "Jha and Mahmoud (2021a)", x
-Nayebi et al. (2018), "Annotated reviews with a type of a user request (e.g., problem discovery).", "2,383", "Deshpande (2021)",x
+Jha and Mahmoud (2018), "Annotated a type of user feedback (feature request, bug reports, and others).", "2,930", http://seel.cse.lsu.edu/data/emse18.zip, x
+Nayebi et al. (2018), "Annotated reviews with a type of a user request (e.g., problem discovery).", "2,383",  https://github.com/MaQuest/AIRE2018_Feedback-from-Tweets-vs-App-Store,x
 Pelloni et al. (2018), "Reviews labeled with a crash report category.", 534, "Pelloni et al. (2021a)", x
 Scoccia et al. (2018), "Annotated reviews with 10 categories of recurring users’s concern.", "1,000", "Scoccia et al. (2021)", x
 Al Kilani et al. (2019), "Labeled reviews with 5 categories: bug, new feature, performance, security, usability or sentimental.", "7,500", Upon Request, x
