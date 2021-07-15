@@ -11,7 +11,6 @@ Scoccia et al. (2018), The tool classifies app reviews into users’ concerns re
 
 Shah et al. (2018),"A tool classifying app reviews based on their feedback type (e.g., feature request, problem report).", Shah et al. (2021), x
 Jha and Mahmoud (2019), "Tool classifies app reviews by non-functional requirements user discuss (e.g. usability, dependability).", Jha and Mahmoud (2021c)
-Pelloni et al. (2018), BECLoMA tool links stack traces from testing tools to user reviews referring to the same crash., Pelloni et al. (2021b), x
-Scalabrino et al. (2019), CLAP tool classifying reviews by their types; clustering them; then recommend their relative importance., Upon Request, x
+
 
 Stanik et al. (2019), A tool classifying reviews by the the type of user feedback, https://mast.informatik.uni-hamburg.de/replication-packages/, "Stanik et al., ""Classifying multilingual user feedback using traditional machine learning and deep learning"", REW, 2019"
