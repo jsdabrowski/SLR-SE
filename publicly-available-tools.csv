@@ -10,7 +10,8 @@ Deshpande and Rokne (2018), "The tool classifies reviews by a type of a user req
 Dhinakaran et al. (2018), "The tool classifies reviews based on types of user feedback i.e., feature request, bug report, user experience and rating", https://github.com/tdvenky/ActiveReviewMiner, "Dhinakaran et al., ""App Review Analysis Via Active Learning: Reducing Supervision Effort without Compromising Classification Accuracy"", RE, 2018"
 Scoccia et al. (2018), The tool classifies app reviews into users’ concerns related to android run-time permission., https://mega.nz/file/5sVzCRwD#ad-PFyU72JCL8AkcCGi_45w-z60CYa0EEjWqAWGiljQ, " Scoccia et al., ""An Investigation into Android Run-Time Permissions from the End Users’ Perspective"", MOBILESoft, 2018"
 
-Shah et al. (2018),"A tool classifying app reviews based on their feedback type (e.g., feature request, problem report).", https://bitbucket.org/faizalishah/, x
+Shah et al. (2018),"A tool classifying app reviews based on their feedback type (e.g., feature request, problem report).", https://bitbucket.org/faizalishah/, "Shah et al., ""Simplifying the Classification of App Reviews Using Only Lexical Features"", ICSOFT, 2018"
+
 Jha and Mahmoud (2019), "Tool classifies app reviews by non-functional requirements user discuss (e.g. usability, dependability).", https://github.com/seelprojects/MARC-3.0, x
 
 Pelloni et al. (2018), BECLoMA tool links stack traces from testing tools to user reviews referring to the same crash., https://github.com/sealuzh/becloma-info, x
