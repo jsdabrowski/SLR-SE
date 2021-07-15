@@ -15,7 +15,8 @@ Nayebi et al. (2018), "Annotated reviews with a type of a user request (e.g., pr
 Pelloni et al. (2018), "Reviews labeled with a crash report category.", 534, https://github.com/sealuzh/saner18/blob/master/rq1/LLT.csv, "Pelloni et al., ""BECLoMA: Augmenting stack traces with user review information"", SANER, 2018"
 Scoccia et al. (2018), "Annotated reviews with 10 categories of recurring users’s concern.", "1,000", https://mega.nz/file/5sVzCRwD#ad-PFyU72JCL8AkcCGi_45w-z60CYa0EEjWqAWGiljQ, "Scoccia et al., ""An Investigation into Android Run-Time Permissions from the End Users’ Perspective"", MOBILESoft, 2018"
 
-Al Kilani et al. (2019), x, x, Upon Request, x
+Al Kilani et al. (2019), "Labeled reviews with 5 categories: bug, new feature, performance, security, usability or sentimental.", x, Upon Request, x
+
 
 Dąbrowski et al. (2019), "Reviews annotated with 20 app features.", 200, Upon Request, "Dąbrowski et al., ""Finding and Analyzing App Reviews Related to Specific Features: A Research Preview"", REFSQ, 2019"
 Jha and Mahmoud (2019), "Labeled reviews with non-functional requirements user discuss (e.g. usability, dependability).", "6,000", http://seel.cse.lsu.edu/data/emse19.zip, "Jha and Mahmoud, ""Mining non-functional requirements from App store reviews"", EMSE, 2019"
