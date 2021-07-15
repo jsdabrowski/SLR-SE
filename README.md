@@ -4,6 +4,7 @@ The repository contains suplementary materials for our systematic literature rev
 
 - data etraction form ("SLR-data-extraction-form.xlsx")
 - database storing the meta-data of surveyed papers ("SLR-bibliography.bib")
+- a repository of publicly-available app review mining tools ("publicly-available-tools.csv")
 
 Do not duplicate the materials nor distribute them without authors' permission. 
 
