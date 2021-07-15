@@ -4,12 +4,12 @@ Guzman et al. (2015), "Tagged reviews with topics (e.g., bug report, feature sho
 Gu and Kim (2015), "Identified type of user request each review convey (e.g., bug report, feature requests).", "2,000", Upon Request, "Gu and Kim, ""What Parts of Your Apps are Loved by Users?"", ASE, 2015"
 Maalej and Nabil (2015), "Reviews labeled with a type of user requests (bug report, feature request, rating, user experience).", "4,400", Upon Request, "Maalej and Nabil, ""Bug report, feature request, or simply praise? On automatically classifying app reviews"", RE, 2015"
 Di Sorbo et al. (2016), "Reviews labeled with 12 topics (e.g. security) and user intention (e.g., problem discovery).", "3,439", https://spanichella.github.io/tools.html, "Di Sorbo et al., ""What Would Users Change in My App? Summarizing App Reviews for Recommending Software Changes"", FSE, 2016"
-Panichella et al. (2016), "Reviews labeled with 5 categories useful from maintenance perspective (e.g., problem discovery).", 852, Panichella (2021b), x
+Panichella et al. (2016), "Reviews labeled with 5 categories useful from maintenance perspective (e.g., problem discovery).", 852, https://spanichella.github.io/tools.html, x
 Sänger et al. (2016), "Identified user opinions (feature and sentiment).", "1,760", Upon Request, x
-Ciurumelea et al. (2017), "Tagged reviews with mobile specific categories (e.g. performance, resources, battery, memory).", "1,566", Panichella (2021a), x
+Ciurumelea et al. (2017), "Tagged reviews with mobile specific categories (e.g. performance, resources, battery, memory).", "1,566", https://zenodo.org/record/161842#.YNn7cS0Rp69, x
 Groen et al. (2017), "Labeled reviews with software quality requirements (e.g., usability, reliability, portability, compatibility).", 360, Upon Request, x
-Lu and Liang (2017), "Reviews labeled with functional and non-functional requirements (e.g., us- ability, performance).", "2,000", Lu and Liang (2021), x
-Grano et al. (2018), "Annotated reviews with their topics and a type of issue users reports.", "6,600", "Panichella (2021b)", x
+Lu and Liang (2017), "Reviews labeled with functional and non-functional requirements (e.g., us- ability, performance).", "2,000", https://www.dropbox.com/sh/05mteyyo7uj4w0n/AAAgKbottac7YchpH3qidPUXa?dl=0, x
+Grano et al. (2018), "Annotated reviews with their topics and a type of issue users reports.", "6,600", https://spanichella.github.io/tools.html, x
 Jha and Mahmoud (2018), "Annotated a type of user feedback (feature request, bug reports, and others).", "2,930", "Jha and Mahmoud (2021a)", x
 Nayebi et al. (2018), "Annotated reviews with a type of a user request (e.g., problem discovery).", "2,383", "Deshpande (2021)",x
 Pelloni et al. (2018), "Reviews labeled with a crash report category.", 534, "Pelloni et al. (2021a)", x
